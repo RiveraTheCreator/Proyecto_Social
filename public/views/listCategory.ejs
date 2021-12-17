@@ -35,10 +35,10 @@
 				<div id="main">
 					<div class="inner">
 						<!--Proyects list -->
-						<h1>Listado de proyectos</h1>
+						<h1 style="margin-left: 10px;">Listado de proyectos</h1>
 						<ul class="alt">
 							<% projects.forEach(element => { %>
-								<a href="/detail/<%= element.id %> "><li><h3><%= element.name %></h3></li></a>
+								<a href="/detail/<%= element.id %> "><li><h2 style="font-weight: bolder; margin: 10px 0 10px 15px;"><%= element.name %></h2></li></a>
 							<% }) %>
 						</ul>
 

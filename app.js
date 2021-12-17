@@ -22,7 +22,6 @@ const controllerProjects = {
         }
         projects.forEach(proyecto => {
           let proyectOne = proyecto.category == req.session.value ? proyecto : ''
-          //console.log(proyectOne);
           if(proyectOne){
             selectedProjects.push(proyectOne);
             }
@@ -58,7 +57,6 @@ app.set('port',process.env.PORT || PORT);
 
 //Configuracioon rutas
 app.get('/',(req,res)=>{
-    //return res.sendFile(`${publicPath}/views/index.html`);
     return res.render('index',{categorias:categories});
 });
 
