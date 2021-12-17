@@ -1,0 +1,50 @@
+[{
+    "id": 1,
+    "name":"Software libre",
+    "info":"",
+    "img":""
+
+},
+{
+    "id": 2,
+    "name":"Privacidad",
+    "info":"En esta época digital es muy importante la conciencia y protección que debemos darle a los datos, aquí algunos proyectos",
+    "img":""
+
+},{
+    "id": 3,
+    "name":"Arte",
+    "info":"El arte esta estrechamente relacionada con la naturaleza humana, esta desempeña un papel importante ya que es motor de la comunicación y la expresión del ser humano aquí algunos proyectos",
+    "img":""
+
+},{
+    "id": 4,
+    "name":"Periodismo",
+    "info":"Mediante la recolección, elaboración y difusión de información actual o de interés, se trabaja para lograr un cambio colectivo. Aquí unos proyectos.",
+    "img":""
+
+},{
+    "id": 5,
+    "name":"Videojuegos",
+    "info":"En esta era digital los videojuegos son herramientas muy importantes, que pueden generar un gran impacto social. Aquí unos proyectos.",
+    "img":""
+
+},{
+    "id": 6,
+    "name":"Derechos humanos",
+    "info":"Son elementos esenciales en la vida de cualquier persona, fomenta su amplio desarrollo por el solo hecho de ser tal, aquí algunos proyectos",
+    "img":""
+
+},{
+    "id": 7,
+    "name":"Defensa de derechos animales",
+    "info":"Durante los últimos años se ha luchado para defender a estas criaturas inocentes, aquí algunos proyectos",
+    "img":""
+
+},{
+    "id": 8,
+    "name":"Medio ambiente",
+    "info":"El tiempo se acaba y el planeta nos necesita es momento de un cambio, aquí algunos proyectos",
+    "img":""
+
+}]
