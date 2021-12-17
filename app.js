@@ -31,7 +31,7 @@ const controllerProjects = {
     mostrar: (req,res)=>{
         let proyecto = parseInt(req.params.id);
         req.session.idProject = proyecto;
-        if(proyecto > projects.length ){
+        if(proyecto > projects.length + 1 ){
             return res.redirect('/');
         }
         let data = projects.find(item=> req.session.idProject == item.id);
