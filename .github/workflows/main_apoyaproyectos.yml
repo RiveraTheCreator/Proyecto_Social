@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'ApoyaProyectos'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FE74AEBDC0904C2EAC2682CEB3A6CFDF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_98324C7809A9408D9CF2F52C1DD633C3 }}
           package: .
