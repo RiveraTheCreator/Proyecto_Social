@@ -8,6 +8,7 @@ const projectsFilePath = path.join(__dirname, '/data/projectos.json');
 let projects = JSON.parse(fs.readFileSync(projectsFilePath, 'utf-8'));
 const categoriesFilePath = path.join(__dirname, '/data/categorias.json');
 let categories = JSON.parse(fs.readFileSync(categoriesFilePath, 'utf-8'));
+const PORT = 3000;
 
 //Controller
 const controllerProjects = {
@@ -52,6 +53,8 @@ app.use(express.static(publicPath));
 //Declaración de uso de EJS
 app.set("view engine","ejs");
 app.set('views',__dirname + '/public/views');
+//Cofiguracion puerto
+app.set('port',process.env.PORT || PORT);
 
 //Configuracioon rutas
 app.get('/',(req,res)=>{
@@ -62,5 +65,6 @@ app.get('/',(req,res)=>{
 app.get('/detail',(req,res)=> {return res.sendFile(`${publicPath}/views/generic.html`)});
 app.get('/categorias/:id',controllerProjects.listar);
 app.get('/detail/:id',controllerProjects.mostrar);
-app.listen(3000,()=>console.log('Server arriba :)'));
+app.listen(app.get('port'));
+console.log(`Server on port  ${app.get('port')}`);
 
