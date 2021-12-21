@@ -21,7 +21,7 @@
             "id":3,
             "category": "1",
             "name":"Espora",
-            "info":"Espora.org es un proyecto cultural dedicado a la construcción de una infraestructura para el aprendizaje colectivo de tecnologías libres y a la socialización del conocimento a través de un servidor (una máquina conectada a la Internet) en el que desarrollamos recursos de manera autónoma.",
+            "info":"Espora.org es un proyecto cultural dedicado a la construcción de una infraestructura para el aprendizaje colectivo de tecnologías libres y a la socialización del conocimento a través de un servidor (una máquina conectada a la Internet) en el que desarrollamos recursos de manera autónoma. Este proyecto resulta de la condensación de experiencias de personas que participan en movimientos sociales, estudiantiles y en colectivos de medios de comunicación independiente que comparten la filosofía del software libre.",
             "banner":"https://innovandoeneducacion.es/wp-content/uploads/2017/04/tecnologia-colaborativa.jpg",
             "link1":" https://espora.org/",
             "link2":""
@@ -48,7 +48,7 @@
             "id":6,
             "category": "1",
             "name":"Mastodon",
-            "info":" Mastodon no es un sitio web único como Twitter o Facebook, es una red de miles de comunidades operadas por diferentes organizaciones e individuos que brindan una experiencia fluida en las redes sociales.",
+            "info":" Mastodon no es un sitio web único como Twitter o Facebook, es una red de miles de comunidades operadas por diferentes organizaciones e individuos que brindan una experiencia fluida en las redes sociales. Mastodon viene con herramientas eficaces contra el abuso para ayudar a protegerse. Gracias a la naturaleza dispersa e independiente de la red, hay más moderadores a los que puede acudir para obtener ayuda personal y comunidades con códigos de conducta estrictos. Tienes 500 caracteres. Puedes ajustar las miniaturas de sus imágenes con puntos focales. Puede usar emojis personalizados, ocultar cosas detrás de las advertencias de spoiler y elegir quién ve una publicación determinada. ¿Hiciste un desastre? Puedes eliminar y volver a redactar para correcciones rápidas.",
             "banner":"https://hoymarketing.com/wp-content/uploads/2017/05/mastodon-social.png",
             "link1":"https://joinmastodon.org/",
             "link2":""
@@ -57,7 +57,7 @@
             "id":7,
             "category": "2",
             "name":"Sombras digitales",
-            "info":"SOMBRAS DIGITALES propone un diálogo alrededor de los temas relacionados con la identidad, la privacidad, la digitalidad,  la revolución de los datos sociales y las consecuencias que esta actividad trae a nuestras vidas cotidianas.Busca proporcionar al lector un marco para mirar oportunidades de acción, nuevas formas de trabajo y ayuda a proporcionar un panorama completo para saber dónde enfocar el tiempo, la energía y los recursos de nuestras actividades en Internet.",
+            "info":"SOMBRAS DIGITALES propone un diálogo alrededor de los temas relacionados con la identidad, la privacidad, la digitalidad,  la revolución de los datos sociales y las consecuencias que esta actividad trae a nuestras vidas cotidianas.Busca proporcionar al lector un marco para mirar oportunidades de acción, nuevas formas de trabajo y ayuda a proporcionar un panorama completo para saber dónde enfocar el tiempo, la energía y los recursos de nuestras actividades en Internet.  Busca reunir a tecnólogos, críticos, defensores de la privacidad, periodistas, activistas o cualquier persona que se interese en el manejo y recolección de información en el Internet para trabajar de la mano y construir un panorama más libre y transparente.",
             "banner":"https://sombrasdigitales.com/wp-content/uploads/2020/03/sombra-digital_seccion4_1-01-2048x1007.png",
             "link1":" https://sombrasdigitales.com/ ",
             "link2":""
@@ -201,7 +201,7 @@
             "id":24,
             "category": "2",
             "name":"Centro de Autonomia Digital",
-            "info":"Todos merecen acceso a tecnologías que mejoren la privacidad. Con su ayuda, podemos investigar, diseñar e implementar tecnología de punta para quienes más la necesitan. Somos una organización multicultural que investiga, mejora, y crea herramientas y técnicas amigables al usuario que fortalecen la soberanía digital de las personas. Valoramos la inclusión, la integridad y la financiación confiable.",
+            "info":"Todos merecen acceso a tecnologías que mejoren la privacidad. Con su ayuda, podemos investigar, diseñar e implementar tecnología de punta para quienes más la necesitan. Somos una organización multicultural que investiga, mejora, y crea herramientas y técnicas amigables al usuario que fortalecen la soberanía digital de las personas. Valoramos la inclusión, la integridad y la financiación confiable. Somos una organización multicultural que investiga, mejora y crea herramientas y técnicas fáciles de usar que fortalecen la soberanía digital de las personas que luchan por los derechos sociales y económicos. Valoramos la inclusión, la integridad y la financiación confiable.",
             "banner":"https://autonomia.digital/images/team/all.png",
             "link1":"https://autonomia.digital/ ",
             "link2":""
