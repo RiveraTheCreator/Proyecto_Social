@@ -1,3 +1,4 @@
+
 [
     {
         "id":1,
@@ -21,7 +22,7 @@
             "id":3,
             "category": "1",
             "name":"Espora",
-            "info":"Espora.org es un proyecto cultural dedicado a la construcción de una infraestructura para el aprendizaje colectivo de tecnologías libres y a la socialización del conocimento a través de un servidor (una máquina conectada a la Internet) en el que desarrollamos recursos de manera autónoma. Este proyecto resulta de la condensación de experiencias de personas que participan en movimientos sociales, estudiantiles y en colectivos de medios de comunicación independiente que comparten la filosofía del software libre.",
+            "info":"Espora.org es un proyecto cultural dedicado a la construcción de una infraestructura para el aprendizaje colectivo de tecnologías libres y a la socialización del conocimento a través de un servidor (una máquina conectada a la Internet) en el que desarrollamos recursos de manera autónoma.Este proyecto resulta de la condensación de experiencias de personas que participan en movimientos sociales, estudiantiles y en colectivos de medios de comunicación independiente que comparten la filosofía del software libre.",
             "banner":"https://innovandoeneducacion.es/wp-content/uploads/2017/04/tecnologia-colaborativa.jpg",
             "link1":" https://espora.org/",
             "link2":""
@@ -75,7 +76,7 @@
             "id":9,
             "category": "3",
             "name":"Cuánto tiempo lleva todo esto derramándose sin desbordarse",
-            "info":"Cuánto tiempo lleva todo esto derramándose sin desbordarse Una exposición retrocolectiva de Ricardo Domínguez  Curaduría por Doreen A. Ríos",
+            "info":"Cuánto tiempo lleva todo esto derramándose sin desbordarse Una exposición retrocolectiva de Ricardo Domínguez  Curaduría por Doreen A. Ríos La Zona Hipermedial es el espacio de exhibición en línea del CCD. Aquí se entrecruzan exploraciones artísticas digitales con el objetivo de vincular diferentes formas de experimentar las obras de arte en internet dejando de lado la navegación solitaria.",
             "banner":"https://medios.centroculturadigital.mx/ccd/contenidos/hd1920-BannerExpo.png",
             "link1":"https://hipermedial.centroculturadigital.mx/exposiciones/cuanto-tiempo-lleva-todo-esto-derramandose-sin-desbordarse",
             "link2":""
@@ -93,7 +94,7 @@
             "id":11,
             "category": "4",
             "name":"hysteria",
-            "info":"Hysteria! es una revista de cultura y sexualidad dirigida a personas interesadas en explorar las políticas de representación del cuerpo desde la perspectiva del arte y la búsqueda del placer entendidos como espacios políticos.",
+            "info":"Hysteria! es una revista de cultura y sexualidad dirigida a personas interesadas en explorar las políticas de representación del cuerpo desde la perspectiva del arte y la búsqueda del placer entendidos como espacios políticos.  En Hysteria estamos en constante búsqueda de pluralidad de opiniones.Solicitamos colaboraciones que cuestionen la heteronormatividad y las políticas de representación corporales, abogando por el respeto a la diversidad de prácticas e identidades sexuales.Si escribes, investigas, eres activista o haces arte en relación a los temas de la revista ¡queremos saber de ti! Envía algún trabajo de tu autoría, puede ser inédito o ya publicado siempre y cuando conserves los derechos de reproducción de la obra. Para información, dudas, comentarios y entrega de materiales, envía correo a: hysteriarevista@gmail.com. No olvides consultar la convocatoria para que te enteres del siguiente tema en puerta.",
             "banner":"https://hysteria.mx/wp-content/uploads/2015/01/banner-e1432411228796.jpg",
             "link1":"https://hysteria.mx/",
             "link2":""
@@ -120,7 +121,7 @@
             "id":14,
             "category": "4",
             "name":"CNI",
-            "info":" es un espacio donde los pueblos originarios encontraramos el espacio de reflexión y solidaridad para fortalecer nuestras luchas de resistencia y rebeldía, con nuestras propias formas de organización, de representación y toma de decisiones",
+            "info":" es un espacio donde los pueblos originarios encontraramos el espacio de reflexión y solidaridad para fortalecer nuestras luchas de resistencia y rebeldía, con nuestras propias formas de organización, de representación y toma de decisiones. Esto es lo que somos, nuestra palabra, nuestro caminar y nuestra lucha irrenunciable, somos pues el Congreso Nacional Indígena y nuestro es el futuro de nuestros pueblos.",
             "banner":"http://www.congresonacionalindigena.org/wp-content/uploads/2017/05/logo-CNI-T.png",
             "link1":"http://www.congresonacionalindigena.org/que-es-el-cni/",
             "link2":""
@@ -129,7 +130,7 @@
             "id":15,
             "category": "8",
             "name":"Ecosia",
-            "info":"Destinamos el 100% de nuestras ganancias a la acción climática, con al menos un 80% de financiación para proyectos de plantaciones de árboles.Tus búsquedas son anónimas y no creamos un perfil tuyo. Nos interesan los árboles, no tus datos.",
+            "info":"Destinamos el 100% de nuestras ganancias a la acción climática, con al menos un 80% de financiación para proyectos de plantaciones de árboles.Tus búsquedas son anónimas y no creamos un perfil tuyo. Nos interesan los árboles, no tus datos.Utilizamos los beneficios que obtenemos de tus búsquedas para plantar árboles donde más se necesitan. Instala la extensión gratuita para el navegador y planta árboles con cada búsqueda.Los árboles son sinónimo de un medioambiente feliz, personas sanas y una economía estable.",
             "banner":"https://humanizationoftechnology.com/wp-content/uploads/2019/08/ecosia-678x381.jpg",
             "link1":" https://www.ecosia.org/",
             "link2":""
@@ -147,7 +148,8 @@
             "id":18,
             "category": "6",
             "name":" comun.al",
-            "info":"A finales de 2021, comun.al nace como un laboratorio de resiliencia digital creado para compartir herramientas, recursos y espacios para facilitar  el acceso a las tecnologías como herramientas para la organización, la defensa de los derechos humanos y las distintas manifestaciones de creatividad que surjan para seguir construyendo resistencias a los abusos de poder en América Latina",
+            "info":"A finales de 2021, comun.al nace como un laboratorio de resiliencia digital creado para compartir herramientas, recursos y espacios para facilitar  el acceso a las tecnologías como herramientas para la organización, la defensa de los derechos humanos y las distintas manifestaciones de creatividad que surjan para seguir construyendo resistencias a los abusos de poder en América Latina. El desarrollo de comun.al fue financiado a través del programa de Tecnología y Sociedad de la Fundación Mozilla. Actualmente retribuimos las colaboraciones y sostenemos los servicios que compartimos por medio de subvenciones, donaciones y la venta de nuestras publicaciones en formato impreso.
+",
             "banner":"https://i.ibb.co/CnF9dkF/comun.png",
             "link1":"https://comun.al/ ",
             "link2":""
@@ -165,7 +167,7 @@
             "id":20,
             "category": "6",
             "name":"CoLibres",
-            "info":"Como mujeres organizadas queremos promover y generar condiciones de ejercicio de derechos de personas en situación de vulnerabilidad en el sur de México, con especial énfasis en mujeres, jóvenes y personas en situación de movilidad y sus familias, desde enfoques de género, interculturalidad y derechos humanos",
+            "info":"Como mujeres organizadas queremos promover y generar condiciones de ejercicio de derechos de personas en situación de vulnerabilidad en el sur de México, con especial énfasis en mujeres, jóvenes y personas en situación de movilidad y sus familias, desde enfoques de género, interculturalidad y derechos humanos 'To survive the Borderlands you must live sin fronteras be a crossroads.Para sobrevivir en la Frontera debes vivir sin fronteras ser un cruce de caminos.' . VIVIR EN LA FRONTERA, Gloria Anzaldúa",
             "banner":"https://colibres.org/sites/default/files/styles/slideshow_1920x640/public/field/slideshow/flowers-4080189_1280.png?itok=bcMFHMLT",
             "link1":"https://colibres.org/",
             "link2":""
@@ -174,7 +176,7 @@
             "id":21,
             "category": "6",
             "name":"Sursiendo",
-            "info":"trabajamos en la defensa de los derechos digitales colectivos para lograr un entorno más abierto y colaborativo",
+            "info":"Trabajamos en la defensa de los derechos digitales colectivos para lograr un entorno más abierto y colaborativo.Nuestra visión es ser una organización que contribuya a que las tecnologías digitales sean espacios para la autonomía, el disfrute de las libertades y los derechos digitales colectivos por parte de todas las personas, apoyando la creación de un mundo en el que su desarrollo considere tanto los entornos sociotécnicos como los naturales. Nuestra misión es trabajar en la defensa de los derechos digitales colectivos para lograr un entorno digital más abierto y seguro con el fin de que todos y todas habitemos internet como bien común, con libertad y autonomía.",
             "banner":"https://sursiendo.org/wp-content/uploads/2021/05/logo_ss-1-1024x467.png",
             "link1":"https://sursiendo.org/",
             "link2":""
@@ -183,7 +185,7 @@
             "id":22,
             "category": "7",
             "name":"ONG ADDA",
-            "info":"Fundada en 1976, la Asociación Defensa Derechos Animal, fue la primera ONG española dedicada a la defensa y al bienestar de los animales en general.",
+            "info":"Fundada en 1976, la Asociación Defensa Derechos Animal, fue la primera ONG española dedicada a la defensa y al bienestar de los animales en general.ADDA se financia de las aportaciones de sus socios, miembros colaboradores, donantes y Mercadillo.",
             "banner":"https://www.addaong.org/workspace/images/logo.png",
             "link1":"https://www.addaong.org/es/",
             "link2":""
@@ -192,7 +194,7 @@
             "id":23,
             "category": "7",
             "name":"Axolotl",
-            "info":"MOJA promueve la conservación del Ajolote (Ambystoma mexicanum) y su hábitat mediante el establecimiento de un centro de conservación, ubicado en la Área Natural Protegida Ejidos de Xochimilco y San Gregorio Atlapulco",
+            "info":"MOJA promueve la conservación del Ajolote (Ambystoma mexicanum) y su hábitat mediante el establecimiento de un centro de conservación, ubicado en la Área Natural Protegida Ejidos de Xochimilco y San Gregorio Atlapulco.  Nuestras misión es generar lazos de confianza a través del trabajo conjunto con las comunidades en donde desarrollamos las acciones en sinergia con nuestros aliados, desde el sector social, empresarial, académico y gubernamental, promoviendo un puente de cooperación para alcanzar un impacto que involucre el cuidado del ambiente y un desarrollo sostenible en comunidades. ",
             "banner":"https://unamglobal.unam.mx/wp-content/uploads/2018/06/ajolotes-y-chinampas-xochimilco.jpg",
             "link1":"https://www.moja.ong/programas/conservacion-el-habitat-del-ajolote/ ",
             "link2":""
