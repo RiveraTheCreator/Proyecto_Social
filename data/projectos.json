@@ -13,7 +13,7 @@
             "category": "1",
             "name":"Tierra comun",
             "info":"No hay nada que te proteja al 100%. Sin embargo, el uso de software libre en materia de autoprotección ha demostrado ser eficaz para resguardar las comunicaciones y la información de las personas de manera transparente. Si se trata de seguridad, no quieres que tus programas tengan puertas traseras* o funciones ocultas que vulneran tu privacidad. El software libre es respaldado por una comunidad mundial amplia y vigorosa de desarrolladorxs, usuarixs, instituciones académicas e incluso gubernamentales. El software libre se ha desarrollado bajo 4 libertades: La libertad de uso, libertad de conocimiento, libertad de modificación y libertad de compartir. Todas estas libertades permiten que esta tecnología se adapte a las necesidades de las personas, quienes también pueden apropiarse de ellas y desarrollarlas como mejor les convenga. El software privativo por el contrario, impone a las personas la obsolescencia programada, el uso de su marca, la entrega de información sensible, le obliga al pago de costosas licencias y las vuelve hiper dependientes de sus productos.  Accesos privilegiados que las empresas de software pueden colocar en sus programas, permitiendo el control del equipo de cómputo sin el conocimiento de la persona usuaria.",
-            "banner":"",
+            "banner":"https://tierracomun.org/public/logo_web.png",
             "link1":"https://tierracomun.org/software-libre/#SL",
             "link2":""
         },
@@ -22,7 +22,7 @@
             "category": "1",
             "name":"Espora",
             "info":"Espora.org es un proyecto cultural dedicado a la construcción de una infraestructura para el aprendizaje colectivo de tecnologías libres y a la socialización del conocimento a través de un servidor (una máquina conectada a la Internet) en el que desarrollamos recursos de manera autónoma.",
-            "banner":"",
+            "banner":"https://innovandoeneducacion.es/wp-content/uploads/2017/04/tecnologia-colaborativa.jpg",
             "link1":" https://espora.org/",
             "link2":""
         },
@@ -31,7 +31,7 @@
             "category": "1",
             "name":"Rancho electronico",
             "info":"Después de cinco años de conversaciones sobre qué somos y qué queremos, no tenemos una respuesta única: compartimos sueños e inquietudes dentro de una diversidad de perspectivas, objetivos y experiencias de vida. Somos una comunidad de gente proveniente de las artes electrónicas, las artes marciales, las radios comunitarias, el cine, las publicaciones, la reparación de máquinas, las ingenierías y la gestión cultural, la filosofía, la teoría crítica, experiencias cooperativistas, el trabajo barrial y de calle y las organizaciones sociales, pero sobre todo desde las semillas plantadas por un hacklab y la movida criptopunk, por los festivales de instalación de software libre, los foros de cultura libre, el neologismo «tecnopolítica» y el verbo «hackear», textos como la Zona Temporalmente Autónoma o el Manifiesto Telecomunista y las pequeñas pero potentes cooperativas tecnológicas y de servidores autónomos. Resistimos y discutimos mucho, trabajamos por mantenernos en colectivo y crear redes de apoyo con otros espacios y luchas. Estamos en contra de la injusticia, el abuso, la violencia y la privatización en todos los ámbitos. Los transfeminicidios, el extractivismo de las mineras, el asesinato de periodistas, la violencia hacia los pueblos indígenas, la precarización laboral en nuestra generación; nos preocupan tanto como la vigilancia de nuestras comunicaciones como la neutralidad de la red, los emporios tecnológicos y la privatización del conocimiento. Hay quienes consideran que el Rancho Electrónico es un espacio de izquierda, pero también hay quienes cuestionan, de inicio, qué es la izquierda. Lo que sí sabemos es que nos desagrada la derecha neoliberal y que la ultraderecha nos ultracaga. Aunque no siempre tenemos respuestas sobre nuestro trabajo, lo que nos sobra son ánimos para seguir experimentando la autonomía.",
-            "banner":"",
+            "banner":"https://ranchoelectronico.org/wp-content/uploads/2018/10/cropped-logohs.png",
             "link1":"https://ranchoelectronico.org/",
             "link2":""
         },
@@ -40,7 +40,7 @@
             "category": "1",
             "name":"Sutty",
             "info":"Hace tiempo que sentimos la urgencia de contar con sitios web que garanticen nuestra seguridad, que no sean censurables, que visibilicen nuestras luchas de manera coherente y cuyos contenidos puedan ser auto-gestionados.¡Por eso desarrollamos Sutty! Sutty incorpora las técnicas para sitios web que son vanguardia entre las élites tecnológicas y las acerca a nuestros objetivos políticos, volviéndolas accesibles para que nuestras colectivas expresen sus voces. Sutty está pensada para potenciar la presencia, la seguridad y la libertad de expresión a organizaciones y colectivas activistas.",
-            "banner":"",
+            "banner":"https://disenowebakus.net/imagenes/articulos/elementos-sitio-web.jpg",
             "link1":"https://sutty.nl/",
             "link2":""
         },
@@ -49,7 +49,7 @@
             "category": "1",
             "name":"Mastodon",
             "info":" Mastodon no es un sitio web único como Twitter o Facebook, es una red de miles de comunidades operadas por diferentes organizaciones e individuos que brindan una experiencia fluida en las redes sociales.",
-            "banner":"",
+            "banner":"https://hoymarketing.com/wp-content/uploads/2017/05/mastodon-social.png",
             "link1":"https://joinmastodon.org/",
             "link2":""
         },
@@ -58,7 +58,7 @@
             "category": "2",
             "name":"Sombras digitales",
             "info":"SOMBRAS DIGITALES propone un diálogo alrededor de los temas relacionados con la identidad, la privacidad, la digitalidad,  la revolución de los datos sociales y las consecuencias que esta actividad trae a nuestras vidas cotidianas.Busca proporcionar al lector un marco para mirar oportunidades de acción, nuevas formas de trabajo y ayuda a proporcionar un panorama completo para saber dónde enfocar el tiempo, la energía y los recursos de nuestras actividades en Internet.",
-            "banner":"",
+            "banner":"https://sombrasdigitales.com/wp-content/uploads/2020/03/sombra-digital_seccion4_1-01-2048x1007.png",
             "link1":" https://sombrasdigitales.com/ ",
             "link2":""
         },
@@ -67,7 +67,7 @@
             "category": "2",
             "name":"Tor projec",
             "info":"La comunidad de Tor se compone de muchas clases de colaboradores. Alguna gente escribe documentación o reportes de error, mientras que otros organizan eventos sobre Tor y hacen más tareas de difusión. Tanto si dispones de mucho tiempo para dedicar o poco tiempo, y tanto si te consideras una persona con conocimientos técnicos o no, queremos que te unas a nuestra comunidad. Debajo encontrarás algunas maneras de colaborar con la comunidad Tor, como así también recursos que te ayudarán a ayudar a Tor.",
-            "banner":"",
+            "banner":"https://community.torproject.org/static/css/images/home/png/yec-activist-es@3x.png?h=99968fcf",
             "link1":"https://community.torproject.org/es/ ",
             "link2":""
         },
@@ -76,7 +76,7 @@
             "category": "3",
             "name":"Cuánto tiempo lleva todo esto derramándose sin desbordarse",
             "info":"Cuánto tiempo lleva todo esto derramándose sin desbordarse Una exposición retrocolectiva de Ricardo Domínguez  Curaduría por Doreen A. Ríos",
-            "banner":"",
+            "banner":"https://medios.centroculturadigital.mx/ccd/contenidos/hd1920-BannerExpo.png",
             "link1":"https://hipermedial.centroculturadigital.mx/exposiciones/cuanto-tiempo-lleva-todo-esto-derramandose-sin-desbordarse",
             "link2":""
         },
@@ -85,7 +85,7 @@
             "category": "3",
             "name":"N-1",
             "info":"Nmenos1 es una plataforma web creada por Lina Useche y Juan Covelli, que surge de la necesidad de crear un espacio para la arqueología de medios desde el llamado sur global.La plataforma explora, promueve y presenta prácticas artísticas basadas en los medios digitales y post-digitales. Por medio de la curaduría, la arqueología de medios y el texto crítico,Nmenos1 busca generar un espacio de reflexión sobre la cultura digital y su injerencia en el arte contemporáneo, además de recuperar las formas en cómo hemos pensado la web en la región desde los años 90s hasta la actualidad.",
-            "banner":"",
+            "banner":"https://i.ibb.co/dkXSK3Z/n1.png",
             "link1":"https://www.nmenos1.xyz/public/",
             "link2":""
         },
@@ -94,7 +94,7 @@
             "category": "4",
             "name":"hysteria",
             "info":"Hysteria! es una revista de cultura y sexualidad dirigida a personas interesadas en explorar las políticas de representación del cuerpo desde la perspectiva del arte y la búsqueda del placer entendidos como espacios políticos.",
-            "banner":"",
+            "banner":"https://hysteria.mx/wp-content/uploads/2015/01/banner-e1432411228796.jpg",
             "link1":"https://hysteria.mx/",
             "link2":""
         },
@@ -103,7 +103,7 @@
             "category": "4",
             "name":"GenderIt.org",
             "info":"GenderIT.org es un proyecto del Programa derechos de las mujeres de la Asociación para el Progreso de las Comunicaciones(link is external) Es un espacio de análisis y reflexión para activistas, académicas, periodistas y defensoras de los derechos de las mujeres, los derechos sexuales y los derechos en internet. Ofrece un espacio para la reflexión, y la defensa y promoción de polìticas y culturas de internet que respondan a las necesidades de las mujeres, las disidencias sexuales y queer, y la población trans.El sitio mapea las intersecciones entre los derechos de las mujeres, los derechos sexuales y los derechos en internet y se concentra en destacar las voces del Sur global en las discusiones de estos temas, muchas veces dominadas por voces de los países del Norte.",
-            "banner":"",
+            "banner":"https://genderit.org/sites/default/files/styles/main_feature/public/learnind_digital_security_as_a_non-techie.jpg?itok=hYTJACwC",
             "link1":"https://www.genderit.org/es",
             "link2":""
         },
@@ -112,7 +112,7 @@
             "category": "4",
             "name":"Centro de medios libres",
             "info":"Se permite la recirculación, publicación, y modificación de los artículos publicados en el Centro de Medios",
-            "banner":"",
+            "banner":"https://www.centrodemedioslibres.org/wp-content/uploads/2018/03/Logo-CML-2018.png",
             "link1":"https://www.centrodemedioslibres.org/",
             "link2":""
         },
@@ -121,7 +121,7 @@
             "category": "4",
             "name":"CNI",
             "info":" es un espacio donde los pueblos originarios encontraramos el espacio de reflexión y solidaridad para fortalecer nuestras luchas de resistencia y rebeldía, con nuestras propias formas de organización, de representación y toma de decisiones",
-            "banner":"",
+            "banner":"http://www.congresonacionalindigena.org/wp-content/uploads/2017/05/logo-CNI-T.png",
             "link1":"http://www.congresonacionalindigena.org/que-es-el-cni/",
             "link2":""
         },
@@ -130,7 +130,7 @@
             "category": "8",
             "name":"Ecosia",
             "info":"Destinamos el 100% de nuestras ganancias a la acción climática, con al menos un 80% de financiación para proyectos de plantaciones de árboles.Tus búsquedas son anónimas y no creamos un perfil tuyo. Nos interesan los árboles, no tus datos.",
-            "banner":"",
+            "banner":"https://humanizationoftechnology.com/wp-content/uploads/2019/08/ecosia-678x381.jpg",
             "link1":" https://www.ecosia.org/",
             "link2":""
         },
@@ -139,7 +139,7 @@
             "category": "8",
             "name":"Fondo verde",
             "info":"La misión de Fondo Verde es la de contribuir a la conservación y manejo sostenible de los recursos naturales y del medio ambiente desde la justicia y solidaridad, participando en la ejecución y administración de proyectos estratégicos de desarrollo ambiental en el ámbito local, nacional e internacional.Estos son los lineamientos generales que deben regir nuestro actuar día a día dentro de la ONGDI, es deber de cada uno de nosotros interiorizarlos y alinear nuestros esfuerzos hacia la consecución de la visión.",
-            "banner":"",
+            "banner":"https://www.fondoverde.org/images/fv/fv_campusfondoverde.jpg",
             "link1":"https://www.fondoverde.org ",
             "link2":""
         },
@@ -148,7 +148,7 @@
             "category": "6",
             "name":" comun.al",
             "info":"A finales de 2021, comun.al nace como un laboratorio de resiliencia digital creado para compartir herramientas, recursos y espacios para facilitar  el acceso a las tecnologías como herramientas para la organización, la defensa de los derechos humanos y las distintas manifestaciones de creatividad que surjan para seguir construyendo resistencias a los abusos de poder en América Latina",
-            "banner":"",
+            "banner":"https://i.ibb.co/CnF9dkF/comun.png",
             "link1":"https://comun.al/ ",
             "link2":""
         },
@@ -157,7 +157,7 @@
             "category": "6",
             "name":" redes",
             "info":"Trabajamos para generar condiciones que permitan a los pueblos indígenas contar con medios de comunicación propios que atiendan a sus principios y valores, así como acceder a medios no indígenas sin discriminación. Lo hacemos a través de tres programas: derechos, que genera condiciones legales mediante acciones de incidencia política y regulatoria; formación, que promueve el desarrollo de capacidades y conformación de espacios pedagógicos para las y los comunicadores indígenas;redes comunitarias, que acompaña la generación de proyectos de telecomunicación para comunidades indígenas. Asimismo, contamos con un área de investigación aplicada que sistematiza y profundiza en aspectos teóricos, metodológicos y de impacto relativos a los programas arriba mencionados.",
-            "banner":"",
+            "banner":"https://static.wixstatic.com/media/68af39_c54a4a92ad3a45119ddadfa6f8a7ef13~mv2.jpg/v1/fill/w_389,h_131,al_c,q_80,usm_0.66_1.00_0.01/68af39_c54a4a92ad3a45119ddadfa6f8a7ef13~mv2.webp",
             "link1":" https://www.redesac.org.mx/",
             "link2":""
         },
@@ -166,7 +166,7 @@
             "category": "6",
             "name":"CoLibres",
             "info":"Como mujeres organizadas queremos promover y generar condiciones de ejercicio de derechos de personas en situación de vulnerabilidad en el sur de México, con especial énfasis en mujeres, jóvenes y personas en situación de movilidad y sus familias, desde enfoques de género, interculturalidad y derechos humanos",
-            "banner":"",
+            "banner":"https://colibres.org/sites/default/files/styles/slideshow_1920x640/public/field/slideshow/flowers-4080189_1280.png?itok=bcMFHMLT",
             "link1":"https://colibres.org/",
             "link2":""
         },
@@ -175,7 +175,7 @@
             "category": "6",
             "name":"Sursiendo",
             "info":"trabajamos en la defensa de los derechos digitales colectivos para lograr un entorno más abierto y colaborativo",
-            "banner":"",
+            "banner":"https://sursiendo.org/wp-content/uploads/2021/05/logo_ss-1-1024x467.png",
             "link1":"https://sursiendo.org/",
             "link2":""
         },
@@ -184,7 +184,7 @@
             "category": "7",
             "name":"ONG ADDA",
             "info":"Fundada en 1976, la Asociación Defensa Derechos Animal, fue la primera ONG española dedicada a la defensa y al bienestar de los animales en general.",
-            "banner":"",
+            "banner":"https://www.addaong.org/workspace/images/logo.png",
             "link1":"https://www.addaong.org/es/",
             "link2":""
         },
@@ -193,7 +193,7 @@
             "category": "7",
             "name":"Axolotl",
             "info":"MOJA promueve la conservación del Ajolote (Ambystoma mexicanum) y su hábitat mediante el establecimiento de un centro de conservación, ubicado en la Área Natural Protegida Ejidos de Xochimilco y San Gregorio Atlapulco",
-            "banner":"",
+            "banner":"https://unamglobal.unam.mx/wp-content/uploads/2018/06/ajolotes-y-chinampas-xochimilco.jpg",
             "link1":"https://www.moja.ong/programas/conservacion-el-habitat-del-ajolote/ ",
             "link2":""
         },
